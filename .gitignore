@@ -26,3 +26,27 @@ coverage
 
 # Benchmarking
 benchmarks/graphs
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+client/lights/node_modules
+client/lights/.pnp
+client/lights.pnp.js
+
+# testing
+client/lights/coverage
+
+# production
+client/lights/build
+
+# misc
+client/lights/.DS_Store
+client/lights/.env.local
+client/lights/.env.development.local
+client/lights/.env.test.local
+client/lights/.env.production.local
+
+client/lights/npm-debug.log*
+client/lights/yarn-debug.log*
+client/lights/yarn-error.log*

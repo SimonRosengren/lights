@@ -1,0 +1,8 @@
+{
+    "mongoDb": {
+        "mongoDbPassword": "smarthome_mongoDbPassword"
+    },
+    "jwt": {
+        "secret": "smarthome_app_jwtsecret"
+    } 
+}
