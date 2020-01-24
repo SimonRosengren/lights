@@ -1,0 +1,22 @@
+{
+  "name": "lights",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimonRosengren/lights.git"
+  },
+  "keywords": [
+    "hue"
+  ],
+  "author": "Simon Rosengren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonRosengren/lights/issues"
+  },
+  "homepage": "https://github.com/SimonRosengren/lights#readme"
+}
